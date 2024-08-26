@@ -1,0 +1,14 @@
+#include <iostrem>
+using namespace std;
+int main ()
+{
+int no1=5, no2=3;
+int sum;
+sum =no1+ no 2;
+cout<<sum;
+return 0;}
+
+<!---
+Thombaregayatri/Thombaregayatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
